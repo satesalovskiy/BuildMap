@@ -7,7 +7,7 @@ namespace BuildMap
 
 
 
-        public const string FILE_PATH = @"/Users/tessergey/Downloads/dotnet.course/Task1/TestData/Map.txt";
+        public const string FILE_PATH = @"/Users/tessergey/Downloads/dotnet.course/Task1/TestData/Map9.txt";
 
 
         static void Main(string[] args)

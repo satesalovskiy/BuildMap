@@ -9,7 +9,7 @@ namespace BuildMap
 
     public class MapClass
     {
-        public const int MAP_SIZE = 50;
+        public const int MAP_SIZE = 70;
 
         private string[,] map;
         private BaseClass myBase;
